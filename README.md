@@ -75,7 +75,8 @@ plt.imshow(eroded_image, cmap='gray')
 plt.title('Eroded Image')
 plt.axis('off')
 ```
-![image](https://github.com/user-attachments/assets/a519d1d9-5c80-4e83-b614-7d3b0d2aedca)
+![image](https://github.com/user-attachments/assets/f89fbf84-0848-4ffb-9ede-2760884b3cd2)
+
 
 
 
